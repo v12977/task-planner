@@ -1,0 +1,17 @@
+[
+    {
+        "id": "685691eb54790",
+        "name": "Go to Gym at 7AM",
+        "completed": false
+    },
+    {
+        "id": "685692294a282",
+        "name": "Start coding at 8AM",
+        "completed": true
+    },
+    {
+        "id": "685692587ee27",
+        "name": "Launch at 12PM",
+        "completed": true
+    }
+]
